@@ -1,0 +1,5 @@
+#herobg {
+    background-image: url(/assets/fish.jpg);
+    object-fit: scale-down;
+    height: 30rem;
+}
